@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryMapper", "MemoryMapper\MemoryMapper.csproj", "{B9FBF3AC-05D8-4CD5-9694-B224D4E6C0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FBF3AC-05D8-4CD5-9694-B224D4E6C0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FBF3AC-05D8-4CD5-9694-B224D4E6C0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FBF3AC-05D8-4CD5-9694-B224D4E6C0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FBF3AC-05D8-4CD5-9694-B224D4E6C0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67B55B35-38D1-4120-934B-0DC6518AFA9C}
+	EndGlobalSection
+EndGlobal
