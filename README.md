@@ -150,7 +150,7 @@ http://www.designbolts.com/
 
 # License
 
-Copyright © ∞ Jason Drawdy (CloneMerge)
+Copyright © ∞ Jason Drawdy 
 
 All rights reserved.
 
